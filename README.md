@@ -2,7 +2,7 @@
 
 Welcome to our GitHub repository for INDE 577 at Rice University, during Fall 2024, where we explore various Machine Learning techniques. This repository contains projects demonstrating both supervised and unsupervised machine learning models, applied to different datasets. 
 
-## Project
+## Projects
 ### Supervised Machine Learning Models:
 1. Perceptron
 2. Gradient Descent
