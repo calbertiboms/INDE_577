@@ -2,6 +2,8 @@
 This project demonstrates the implementation of a **Perceptron**, which is one of the simplest neural networks. 
 A perceptron is a binary classifier that attempts to find a hyperplane to separate data into two categories.
 
+![Perceptron Model](https://raw.githubusercontent.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022/refs/heads/main/Lecture_3/ThePerceptronImage.png)
+
 ### Key Concepts:
 - **Perceptron Algorithm**: It updates its weights iteratively based on the input data and the errors produced. The perceptron learns by adjusting these weights to minimize classification errors.
 - **Activation Function**: The perceptron uses a step function, where if the weighted sum of the inputs is greater than a threshold, it classifies the input as one category, otherwise as the other.
