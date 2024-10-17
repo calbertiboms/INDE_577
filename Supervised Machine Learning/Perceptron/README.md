@@ -1,6 +1,7 @@
 # Perceptron Project
 This project demonstrates the implementation of a **Perceptron**, which is one of the simplest neural networks. 
 A perceptron is a binary classifier that attempts to find a hyperplane to separate data into two categories.
+It is a single neuron model with the sign activation function as depicted in the figure below.
 
 ![Perceptron Model](https://raw.githubusercontent.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022/refs/heads/main/Lecture_3/ThePerceptronImage.png)
 
