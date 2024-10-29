@@ -14,4 +14,4 @@ This project implements **Gradient Descent**, an optimization algorithm used to 
 
 ### Requirements:
 - Python 3.x
-- Libraries: Matplotlib (for visualizing the optimization process)
+- Libraries: Numpy, Matplotlib (for visualizing the optimization process)
