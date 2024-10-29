@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+.env/
+ENV/
+
+# VSCode specific settings
+.vscode/
+
+# Ignore logs and databases
+*.log
+*.sqlite3
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
