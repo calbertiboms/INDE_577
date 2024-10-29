@@ -16,4 +16,4 @@ It is a single neuron model with the sign activation function as depicted in the
 
 ### Requirements:
 - Python 3.x
-- Libraries: NumPy, Matplotlib (for visualizing the decision boundary)
+- Libraries: NumPy, Matplotlib (for visualizing the decision boundary), sklearn (to create the dataset)
