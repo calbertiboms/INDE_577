@@ -1,4 +1,4 @@
-# **Gradient Descent Algorithm**
+# **Gradient Descent**
 
 ## Overview
 
