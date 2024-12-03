@@ -59,13 +59,12 @@ In this project, we:
 - Train with different learning rates (e.g., 0.01, 0.1).
 - Compare the decision boundaries and performance.
 
---
-
+---
 ## **Results**
 - Decision boundary: the perceptron successfully learned a linear boundary to separate the two classes.
 - Effect of learning rates: the selection of the learning rate can change the outcome. 
 
---
+---
 ## **Conclusion**
 The Perceptron algorithm is a foundational concept in machine learning, showing how a simple iterative process can achieve effective classification for linearly separable data. This notebook provides an interactive way to explore its workings and understand the importance of hyperparameters such as the learning rate.
 
