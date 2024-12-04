@@ -11,6 +11,12 @@ Dr. Randy R. Davila, https://github.com/RandyRDavila
 
 ---
 
+# **Authors**
+Valentina Varetto, https://github.com/vvaretto 
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQGsSFBdxDH5yA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726877172417?e=1738800000&v=beta&t=dSXghDjjlBoe4l9o4ZqINT_M0ATxrwb2rjxGukHEfAE" width="250" />
+
+Cecilia Alberti, https://github.com/calbertiboms 
+<img src="https://media.licdn.com/dms/image/v2/D4D03AQEa5c82VidCHQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708918201541?e=1738800000&v=beta&t=exEavAmyc-waQkAzrU_aAQuAd_7ircfGhVrcz1c11h4" width="250" />
 ## **Repository description**
 For this repository, each sub-repository is named by an algorithm name, and contains a Jupyter Notebook implementing algorithms related to that specific model. Additionally, a README file is included in each sub-repository.
 
