@@ -6,7 +6,7 @@ This project implements a **Single Neuron Linear Regression Model**, showcasing 
 
 In this project, we:
 1. Implement a single-neuron model for linear regression.
-2. Train the model using gradient descent with different learning rates.
+2. Train the model using gradient descent.
 3. Visualize how changes in hyperparameters affect performance.
 
 ![Neuron Model](https://raw.githubusercontent.com/RandyRDavila/Data_Science_and_Machine_Learning_Spring_2022/refs/heads/main/Lecture_3/ThePerceptronImage.png)
@@ -76,17 +76,20 @@ In this project, we:
 
 - Train the neuron on the dataset using gradient descent.
 - Explore the impact of different learning rates on model performance.
+- Explore the impact of using more features in the analysis.
 
 ### **4. Visualization**
 
 - Compare model predictions against actual target values.
 - Visualize the effect of learning rate adjustments using subplots.
+- Analyze the MSE and MAE reduction. 
+- Understand the impact of using more features.
 
 ---
 
 ## **Results**
 - **Prediction Accuracy**:
-  - The model successfully fits the data when an appropriate learning rate is chosen.
+  - The model successfully fits the data when an appropriate learning rate and amount of features is chosen.
 - **Learning Rate Impact**:
   - Smaller learning rates converge slowly but are more stable.
   - Larger learning rates can overshoot the minimum, causing instability.
@@ -95,5 +98,5 @@ In this project, we:
 
 ## **Conclusion**
 
-This project highlights the simplicity and effectiveness of a single neuron for linear regression. By exploring gradient descent with different learning rates, we gain insight into the trade-offs between convergence speed and stability. The visualizations provide a clear understanding of how well the neuron fits the data, emphasizing the importance of proper hyperparameter tuning.
+This project highlights the simplicity and effectiveness of a single neuron for linear regression. By exploring gradient descent with different learning rates, we gain insight into the trade-offs between convergence speed and stability. The visualizations provide a clear understanding of how well the neuron fits the data, emphasizing the importance of proper hyperparameter tuning. Additionally, by incorporating more features into the model, is possible to observe an improvement in its predictive performance. This demonstrates the importance of feature selection and the impact it has on machine learning models. The model development process is iterative, and experimenting with different approaches is key to achieving the best results.
 
