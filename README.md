@@ -12,11 +12,16 @@ Dr. Randy R. Davila, https://github.com/RandyRDavila
 ---
 
 # **Authors**
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQGsSFBdxDH5yA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726877172417?e=1738800000&v=beta&t=dSXghDjjlBoe4l9o4ZqINT_M0ATxrwb2rjxGukHEfAE" width="250" />
-Valentina Varetto, https://github.com/vvaretto 
-
-<img src="https://media.licdn.com/dms/image/v2/D4D03AQEa5c82VidCHQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708918201541?e=1738800000&v=beta&t=exEavAmyc-waQkAzrU_aAQuAd_7ircfGhVrcz1c11h4" width="250" />
-Cecilia Alberti, https://github.com/calbertiboms 
+<div style="display: flex; align-items: center; gap: 20px;">
+  <div style="text-align: center;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQGsSFBdxDH5yA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1726877172417?e=1738800000&v=beta&t=dSXghDjjlBoe4l9o4ZqINT_M0ATxrwb2rjxGukHEfAE" width="150" />
+    <p>Valentina Varetto<br><a href="https://github.com/vvaretto">GitHub</a></p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://media.licdn.com/dms/image/v2/D4D03AQEa5c82VidCHQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1708918201541?e=1738800000&v=beta&t=exEavAmyc-waQkAzrU_aAQuAd_7ircfGhVrcz1c11h4" width="150" />
+    <p>Cecilia Alberti<br><a href="https://github.com/calbertiboms">GitHub</a></p>
+  </div>
+</div>
 
 ---
 
