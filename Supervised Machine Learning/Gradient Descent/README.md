@@ -94,28 +94,24 @@ In this project, we:
 
 - **Learning Rate Effects**:
   - Test different learning rates (e.g., 0.01, 0.1, 0.001) and observe the impact on convergence.
-- **Initialization Effects**:
-  - Try different initial values for \(w\) and \(b\) to see how they affect the optimization path.
-
+    
 ---
 
 ## **Results**
 
 - **Convergence**:
-  - The algorithm successfully minimized the cost function, converging to optimal parameter values.
+  - The algorithm successfully minimized the error function, converging to optimal parameter values.
 - **Learning Rate Impact**:
   - **High Learning Rate**:
     - Faster initial progress but risk of overshooting the minimum.
   - **Low Learning Rate**:
     - Slower convergence but more stable and precise.
-- **Final Parameters**:
-  - Obtained optimal weights and bias that fit the data.
 
 ---
 
 ## **Conclusion**
 
-This project demonstrates how the Gradient Descent algorithm can be implemented from scratch and used to solve a linear regression problem. By adjusting hyperparameters like the learning rate and initial parameters, we can influence the convergence behavior of the algorithm. Visualizing the cost function and regression line provides insights into the optimization process and the effectiveness of Gradient Descent.
+This project demonstrates how the Gradient Descent algorithm can be implemented from scratch and used to solve a linear regression problem. By adjusting hyperparameters like the learning rate and initial parameters, we can influence the convergence behavior of the algorithm. Visualizing the MSE and the iterations in the function provides insights into the optimization process and the effectiveness of Gradient Descent.
 
 ---
 
