@@ -36,6 +36,7 @@ For this repository, each sub-repository is named by an algorithm name, and cont
 7. Decision Trees
 8. Ensemble learning
 9. KNN Regression
+10. Support Vector Machine
 
 ### Unsupervised Machine Learning Models: 
 1. K Means Clustering
