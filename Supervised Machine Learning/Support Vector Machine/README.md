@@ -4,7 +4,7 @@
 
 Support Vector Machine (SVM) is a powerful supervised learning algorithm used for classification and regression tasks. It is particularly effective for problems with clear margins of separation between classes. SVM works by finding the optimal hyperplane that maximizes the margin between different classes, making it a robust choice for both linear and non-linear problems.
 
-![Support Vector Machine](https://miro.medium.com/max/1400/1*KMi_f-m3O10-3K8N1w2bDA.png)
+![Support Vector Machine](https://ch.mathworks.com/discovery/support-vector-machine/_jcr_content/mainParsys/image.adapt.full.medium.jpg/1718266259806.jpg)
 
 This notebook explores SVM to predict class labels for a dataset using different kernel functions. SVM is implemented using `scikit-learn`, and the model performance is evaluated using metrics such as accuracy, precision, recall, and F1-score.
 
